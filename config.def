@@ -1,8 +1,8 @@
 {
-    "useAccount": false,
-    "hasPremium": false,
+    "useAccount": True,
+    "hasPremium": True,
     "authToken": "",
-    "accountName": "Guest",
+    "accountName": "Owner",
     "ytdlpPath": "./bin/yt-dlp",
     "ffmpegPath": "./bin/ffmpeg",
     "mp4decPath": "./bin/mp4decrypt",
